@@ -1,2 +1,0 @@
-# dinamic
-dinamic
